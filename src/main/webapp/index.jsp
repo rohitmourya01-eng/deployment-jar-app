@@ -19,7 +19,7 @@
     Successfully Completed Jenkins Freestyle Deployment
 </h1>
 <h5 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
-                             Made by Rohit maurya
+     Successfully done Jnekins+Tomcat+Nexus 2.0.0
 
 </h5>
 </body>
